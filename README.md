@@ -1,6 +1,6 @@
 # Archives Processing Program
 
-The Original project was made by [@Pones2](https://www.github.com/Pones2) and me, for the Introduction to Web Development class.
+The Original project was made by [@Pones2](https://www.github.com/Pones2) and me, for the Archives Processing class.
 
 Repository for improving the application and refactoring the code.
 
