@@ -7,7 +7,7 @@
 
 The Original project was made by [@Pones2](https://www.github.com/Pones2) and me, for the Archives Processing class. This repository is for improving the application and refactoring the code.
 
-The program consists of a series of functions to manipulate archives, implementing some basic functionality of a DBMS. Everything was built from scratch using `C` programming language.
+The program consists of a series of functions to manipulate archives, implementing core commands of a DBMS. Everything was built from scratch using `C` programming language.
 
 ## Current State
 
